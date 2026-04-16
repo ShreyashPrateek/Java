@@ -1,0 +1,20 @@
+How Java Program Runs
+1. Java Source Code (.java) is written by the programmer.
+2. Code is given to compiler whose output is byte Code.
+3. Byte code is given to JVM which converts it to machine readable code.
+4. JVM runs the code on machine and produces an output
+
+BYTE Code
+It is platform independent
+
+JVM (Java Virtual Machine)
+It is a software that runs on top of the operating system and provides an environment for Java programs to run.
+It is responsible for converting byte code into machine code and executing it.
+
+JRE (Java Runtime Environment)
+It is a software package that contains the JVM and other libraries and tools needed to run Java programs.
+
+JDK (Java Development Kit)
+It is a software package that contains the JRE and additional tools for developing Java programs.
+
+
